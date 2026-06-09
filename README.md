@@ -1,5 +1,7 @@
 # CPA <==> sub2api
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/gtxx3600/CPA2sub2API)
+
 纯前端网页工具，用来在 CPA（CLIProxyApi）认证文件和 sub2api 配置之间做双向转换。
 
 支持两个方向：
