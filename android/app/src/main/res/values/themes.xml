@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.CPA2sub2API" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#1976D2</item>
+        <item name="colorPrimaryDark">#1565C0</item>
+        <item name="colorAccent">#FF5722</item>
+    </style>
+</resources>
